@@ -9,9 +9,13 @@ A **side quest** that got out of hand (again).
 
 This isn’t just another quadratic solver. It’s a deep dive into the **how** behind the formula:
 
-\[
+$$
 ax^2 + bx + c = 0
-\]
+$$
+
+$$
+a \ne 0
+$$
 
 Instead of relying on built-in math functions, this program **rebuilds everything from scratch**. Because **knowing how things work** is half the fun.
 
