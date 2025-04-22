@@ -13,12 +13,10 @@ This isn’t just another quadratic solver. It’s a deep dive into the **how** 
 ax^2 + bx + c = 0
 \]
 
-Instead of relying on built-in math functions, this program **rebuilds everything from scratch**.  
-Because **knowing how things work** is half the fun.
+Instead of relying on built-in math functions, this program **rebuilds everything from scratch**. Because **knowing how things work** is half the fun.
 
 > [!NOTE]  
-> This isn’t the fastest quadratic solver out there (Python’s built-in math functions still win).  
-> But if you’re here for the **process, transparency, and fun**, you’re in the right place.
+> This isn’t the fastest quadratic solver out there (Python’s built-in math functions still win). But if you’re here for the **process, transparency, and fun**, you’re in the right place.
 
 ---
 
@@ -91,30 +89,22 @@ quadratic-solver/
 
 ## Behind the Code
 
-I’m a **teacher**, **problem-solver**, and someone who enjoys asking,  
-**"But what if I did it differently?"**
+I’m a **teacher**, **problem-solver**, and someone who enjoys asking, **"But what if I did it differently?"**
 
-This solver isn’t about reinventing the wheel.  
-It’s about **taking the wheel apart** to see how it works—and maybe putting it back together better (or at least more thoughtfully).
+This solver isn’t about reinventing the wheel. It’s about **taking the wheel apart** to see how it works—and maybe putting it back together better (or at least more thoughtfully).
 
-In the classroom, I encourage students to **explore how things work**, not just **accept the answer**.  
-That same spirit guides my programming. I don’t write code like this because it’s needed—I write code like this because:
+In the classroom, I encourage students to **explore how things work**, not just **accept the answer**. That same spirit guides my programming. I don’t write code like this because it’s needed—I write code like this because:
 
 - **Efficiency** isn’t just about speed—it’s about **understanding each piece** and making sure it earns its place.
 - **Complexity** can be beautiful if it helps reveal **why** something works.
 
-This project grew from the same curiosity that led me to build an **integer square root finder** during a break.  
-I could’ve used Python’s built-in functions.  
-But I’m the kind of person who **solves non-problems for fun**—just to see what I learn along the way.
+This project grew from the same curiosity that led me to build an **integer square root finder** during a break. I could’ve used Python’s built-in functions. But I’m the kind of person who **solves non-problems for fun**—just to see what I learn along the way.
 
 ### A quick story:
 
-When I built the **integer square root finder**, it started as a side project to optimize my **prime checker** (which, let’s be honest, wasn’t all that reliable).  
-I found myself obsessing over whether I could **narrow the search range** for square roots based on **digit patterns**—counting digits, spotting trends, and asking **“Is there a mathematical rule I’m missing?”**  
-Three days later, I had something efficient enough to **check for integer square roots** without crashing my machine.
+When I built the **integer square root finder**, it started as a side project to optimize my **prime checker** (which, let’s be honest, wasn’t all that reliable). I found myself obsessing over whether I could **narrow the search range** for square roots based on **digit patterns**—counting digits, spotting trends, and asking **“Is there a mathematical rule I’m missing?”** Three days later, I had something efficient enough to **check for integer square roots** without crashing my machine.
 
-This quadratic solver? It’s the **natural next step**.  
-If I’m going to **simplify square roots**, I might as well **build the whole formula** from the ground up.
+This quadratic solver? It’s the **natural next step**. If I’m going to **simplify square roots**, I might as well **build the whole formula** from the ground up.
 
 That’s just how my brain works.
 
