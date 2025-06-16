@@ -2,9 +2,6 @@
 
 _The solver that shows its work._
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-
 A **side quest** that got out of hand (again).
 
 This isn’t just another quadratic solver. It’s a deep dive into the **how** behind the formula:
